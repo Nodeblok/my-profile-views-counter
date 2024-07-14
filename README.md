@@ -1,1 +1,1 @@
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/nodeblok/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/nodeblok/my-profile-views-counter)
+[![Image of https://github.com/nodeblok/my-profile-views-counter](https://github.com/nodeblok/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/nodeblok/my-profile-views-counter)
